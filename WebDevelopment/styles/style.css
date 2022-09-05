@@ -1,0 +1,24 @@
+.body{
+    background-image: url("../imgs/back2.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    padding: 30px;
+}
+.content{
+    padding: 25px;
+    background-color: coral;
+    border: 5px solid white;
+    margin: 50px;
+
+}
+.logo{
+    align-items: center;
+    margin-left: 480px;
+
+}
+.para{
+    color: white;
+}
+.heading{
+    text-align: center;
+}
